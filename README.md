@@ -8,6 +8,9 @@ This project is a simple and responsive newsletter signup form built using HTML 
 **FEATURES**
 
 Modern and minimal design for a seamless user experience
+
 Fully responsive layout that adapts to different screen sizes
+
 Accessible and semantic HTML for better usability
+
 Pure CSS styling with no external frameworks
