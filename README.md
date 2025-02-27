@@ -14,13 +14,13 @@ Accessible and semantic HTML for better usability
 <br>
 Pure CSS styling with no external frameworks
 <br><br>
-<strong>Technologies Used</strong>
+<strong>TECHNOLOGIES USED</strong>
 <br>
 HTML – Form structure & input fields
 <br>
 CSS – Styling and responsiveness
 <br><br>
-<strong>Future Improvements</strong>
+<strong>FUTURE IMPROVEMENTS</strong>
 <br>
 Add form validation with JavaScript
 <br>
