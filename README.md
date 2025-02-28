@@ -1,29 +1,23 @@
 # codex25-007-newsletter
 
-<strong>PROJECT OVERVIEW</strong>
-<br>
+<p><strong>PROJECT OVERVIEW</strong></p>
 This project is a simple and responsive newsletter signup form built using HTML and CSS. It provides a clean and accessible design for users to subscribe to a newsletter.
 <br><br>
-<strong>FEATURES</strong>
-<br>
-Modern and minimal design for a seamless user experience
-<br>
-Fully responsive layout that adapts to different screen sizes
-<br>
-Accessible and semantic HTML for better usability
-<br>
-Pure CSS styling with no external frameworks
-<br><br>
-<strong>TECHNOLOGIES USED</strong>
-<br>
-HTML – Form structure & input fields
-<br>
-CSS – Styling and responsiveness
-<br><br>
-<strong>FUTURE IMPROVEMENTS</strong>
-<br>
-Add form validation with JavaScript
-<br>
-Connect to a backend or email marketing service
-<br>
-Enhance with animations for better user engagement
+<p><strong>FEATURES</strong></p>
+<ul>
+  <li>Modern and minimal design for a seamless user experience</li>
+  <li>Fully responsive layout that adapts to different screen sizes</li>
+  <li>Accessible and semantic HTML for better usability</li>
+  <li>Pure CSS styling with no external frameworks</li>
+</ul>
+<p><strong>TECHNOLOGIES USED</strong></p>
+<ul>
+  <li>HTML – Form structure & input fields</li>
+  <li>CSS – Styling and responsiveness</li>
+</ul>
+<p><strong>FUTURE IMPROVEMENTS</strong></p>
+<ul>
+  <li>Add form validation with JavaScript</li>
+  <li>Connect to a backend or email marketing service</li>
+  <li>Enhance with animations for better user engagement</li>
+</ul>
