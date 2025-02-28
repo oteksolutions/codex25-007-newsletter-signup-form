@@ -21,3 +21,7 @@ This project is a simple and responsive newsletter signup form built using HTML 
   <li>Connect to a backend or email marketing service</li>
   <li>Enhance with animations for better user engagement</li>
 </ul>
+<br>
+<footer>
+    <p>&copy; 2025 Ken Ekweme | <a href="https://www.oteksolutions.net" target="_blank">OTek Solutions</a></p>
+</footer>
