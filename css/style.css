@@ -51,12 +51,25 @@ h1 {
 .checkbox-container {
   display: flex;
   align-items: center;
-  margin-bottom: 10px;
+  margin: 12px 0;
   width: 100%;
+  max-width: 300px;
+  cursor: pointer;
+  transition: all 0.2s ease;
 }
 
 .checkbox-container input[type="checkbox"] {
-  margin-right: -125px;
+  -webkit-appearance: none;
+  appearance: none;
+  margin-right: 8px;
+  width: 18px;
+  height: 18px;
+  border: 2px solid #00698f;
+  border-radius: 3px;
+  outline: none;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.2s ease;
 }
 
 .checkbox-container label {
@@ -74,8 +87,8 @@ h1 {
   cursor: pointer;
 }
 
-.signup-form button:hover {
-  background-color:   #0e9dcd; /* Darker shade on hover */
+.checkbox-container:hover {
+  transform: translateY(-1px);
 }
 
 /* Developer Footer */
