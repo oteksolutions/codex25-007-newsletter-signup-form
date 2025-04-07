@@ -72,6 +72,24 @@ h1 {
   transition: all 0.2s ease;
 }
 
+.checkbox-container input[type="checkbox"]:checked {
+  background-color: #00698f;
+  border-color: #00698f;
+}
+
+.checkbox-container input[type="checkbox"]:checked::after {
+  content: "✓";
+  position: absolute;
+  color: white;
+  font-size: 12px;
+  left: 3px;
+  top: 0;
+}
+
+.checkbox-container input[type="checkbox"]:focus {
+  box-shadow: 0 0 0 2px rgba(0, 105, 143, 0.3);
+}
+
 .checkbox-container label {
   margin: 0;
   font-size: 0.9rem;
