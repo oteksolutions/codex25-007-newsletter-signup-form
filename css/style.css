@@ -53,11 +53,10 @@ h1 {
   align-items: center;
   margin-bottom: 10px;
   width: 100%;
-  max-width: 300px;
 }
 
 .checkbox-container input[type="checkbox"] {
-  margin-right: 10px;
+  margin-right: -125px;
 }
 
 .checkbox-container label {
