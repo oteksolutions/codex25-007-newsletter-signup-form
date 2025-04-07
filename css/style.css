@@ -36,6 +36,7 @@ h1 {
 .signup-form {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .signup-form input {
@@ -43,6 +44,26 @@ h1 {
   margin-bottom: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
+  width: 100%;
+  max-width: 300px;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 300px;
+}
+
+.checkbox-container input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.checkbox-container label {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #2c3e50;
 }
 
 .signup-form button {
@@ -55,7 +76,7 @@ h1 {
 }
 
 .signup-form button:hover {
-  background-color: #005f7f; /* Darker shade on hover */
+  background-color:   #0e9dcd; /* Darker shade on hover */
 }
 
 /* Developer Footer */
